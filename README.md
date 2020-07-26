@@ -10,6 +10,6 @@ Clone this repo and run `npm install` in the project folder. From there, you can
 
 ## Production build serve
 
-  npm run build
-  npm install -g serve
-  serve -s build
+  > npm run build
+  > npm install -g serve
+  > serve -s build
