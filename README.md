@@ -8,6 +8,10 @@ This project uses the free [CryptoCompare API](http://cryptocompare.com/api) ser
 
 ![view](src/View.png)
 
+## Offline first in production 
+
+https://create-react-app.dev/docs/making-a-progressive-web-app/#offline-first-considerations
+
 ## How to use this
 
 Clone this repo and run `npm install` in the project folder. From there, you can run `npm start` to watch the project in action.
