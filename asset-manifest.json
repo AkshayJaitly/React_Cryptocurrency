@@ -1,7 +1,23 @@
 {
-  "main.css": "static/css/main.ac5ffc97.css",
-  "main.css.map": "static/css/main.ac5ffc97.css.map",
-  "main.js": "static/js/main.a468a519.js",
-  "main.js.map": "static/js/main.a468a519.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "files": {
+    "main.css": "/AkshayJaitly/React_Cryptocurrency/static/css/main.f7c3764d.chunk.css",
+    "main.js": "/AkshayJaitly/React_Cryptocurrency/static/js/main.3c0282c1.chunk.js",
+    "main.js.map": "/AkshayJaitly/React_Cryptocurrency/static/js/main.3c0282c1.chunk.js.map",
+    "runtime-main.js": "/AkshayJaitly/React_Cryptocurrency/static/js/runtime-main.396a5b31.js",
+    "runtime-main.js.map": "/AkshayJaitly/React_Cryptocurrency/static/js/runtime-main.396a5b31.js.map",
+    "static/js/2.db730e0e.chunk.js": "/AkshayJaitly/React_Cryptocurrency/static/js/2.db730e0e.chunk.js",
+    "static/js/2.db730e0e.chunk.js.map": "/AkshayJaitly/React_Cryptocurrency/static/js/2.db730e0e.chunk.js.map",
+    "index.html": "/AkshayJaitly/React_Cryptocurrency/index.html",
+    "precache-manifest.39fe29964dc5fac514b2c027f5839775.js": "/AkshayJaitly/React_Cryptocurrency/precache-manifest.39fe29964dc5fac514b2c027f5839775.js",
+    "service-worker.js": "/AkshayJaitly/React_Cryptocurrency/service-worker.js",
+    "static/css/main.f7c3764d.chunk.css.map": "/AkshayJaitly/React_Cryptocurrency/static/css/main.f7c3764d.chunk.css.map",
+    "static/js/2.db730e0e.chunk.js.LICENSE.txt": "/AkshayJaitly/React_Cryptocurrency/static/js/2.db730e0e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AkshayJaitly/React_Cryptocurrency/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.396a5b31.js",
+    "static/js/2.db730e0e.chunk.js",
+    "static/css/main.f7c3764d.chunk.css",
+    "static/js/main.3c0282c1.chunk.js"
+  ]
 }
