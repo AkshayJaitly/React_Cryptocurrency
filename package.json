@@ -2,7 +2,7 @@
   "name": "react-crypt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AkshayJaitly/React_Cryptocurrency",
+  "homepage": "https://akshayjaitly.github.io/React_Cryptocurrency/",
   "dependencies": {
     "axios": "^0.18.1",
     "react": "^16.2.0",
