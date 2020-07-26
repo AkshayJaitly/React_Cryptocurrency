@@ -2,7 +2,7 @@
 
 This shows the current prices of Bitcoin, Ethereum and Iota
 
-This project uses the free [CryptoCompare API](http://cryptocompare.com/api) service. Will be further using this for stock analysis.
+This project uses the free [CryptoCompare API](http://cryptocompare.com/api) service. Will be further using this for stock analysis. The web app is served at https://akshayjaitly.github.io/React_Cryptocurrency/
 
 ## Screenshot
 
