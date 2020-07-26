@@ -2,7 +2,7 @@
 
 This shows the current prices of Bitcoin, Ethereum and Iota
 
-This project uses the free [CryptoCompare API](http://cryptocompare.com/api) service.
+This project uses the free [CryptoCompare API](http://cryptocompare.com/api) service. Will be further using this for stock analysis.
 
 ## Screenshot
 
