@@ -30,10 +30,7 @@ class App extends Component {
 
           <div id = "crypto-container">
           <span className = "left">{key}</span>
-          <span className="right"><NumberFormat value={this.state.cryptos[key].USD} displayType={'text'} decimalPrecision={2} thousandSeparator={true} prefix={'$'} /></span>
-
-
-
+          <span className="right"><NumberFormat value={this.state.cryptos[key].USD} displayType={'text'} decimalPrecision={3} thousandSeparator={true} prefix={'$'} /></span>
           </div>
 
          ) )}
