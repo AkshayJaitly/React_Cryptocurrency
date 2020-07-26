@@ -1,4 +1,4 @@
-# React Crypto Currency Tutorial
+# React Crypto Currency Web App
 
 This shows the current prices of Bitcoin, Ethereum and Iota
 
